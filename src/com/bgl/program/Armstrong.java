@@ -12,7 +12,8 @@ public class Armstrong {
 		   r=n % 10;
 		   n=n/10;
 		   sum=sum + r*r*r;
-	     }
+	     }        
+		
 		if(temp == sum) 
 			System.out.println("its armstrong number");
 		else

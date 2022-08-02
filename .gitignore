@@ -1,5 +1,4 @@
-*.classpath
-error.log
+# compile class file
 *.class
 *.classpath
 *.project
